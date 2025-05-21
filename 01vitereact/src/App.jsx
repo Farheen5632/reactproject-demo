@@ -1,12 +1,11 @@
-
-
+import Greeting from "./Greeting"
 
 
 function App() {
 
   return (
     <>
-      <h1>Hello Vite React</h1>
+     <Greeting/> 
     </>
   )
 }
